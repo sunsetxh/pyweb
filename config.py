@@ -13,6 +13,6 @@ class Config(object):
     MAIL_USE_TLS = os.environ.get('MAIL_USE_TLS') is not None
     MAIL_USERNAME = os.environ.get('MAIL_USERNAME')
     MAIL_PASSWORD = os.environ.get('MAIL_PASSWORD')
-    ADMINS = ['wyc984872769@hotmail.com']
+    ADMINS = ['wyc984872769@163.com']
 
     POSTS_PRE_PAGE = 25
