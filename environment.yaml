@@ -1,8 +1,6 @@
 name: py3web
 channels:
   - conda-forge
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
   - defaults
 dependencies:
   - certifi=2018.8.24=py35_1001
@@ -31,5 +29,4 @@ dependencies:
     - python-dotenv==0.10.1
     - python-editor==1.0.4
     - six==1.12.0
-prefix: D:\Anaconda3\envs\py3web
-
+prefix: D:\ProgramData\Anaconda3\envs\py3web
